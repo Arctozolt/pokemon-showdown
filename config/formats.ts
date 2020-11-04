@@ -152,7 +152,7 @@ export const Formats: FormatList = [
 		banlist: [
 			'Eternatus', 'Kyurem-Black', 'Kyurem-White', 'Lunala', 'Magearna', 'Marshadow', 'Melmetal', 'Mewtwo', 'Necrozma-Dawn-Wings',
 			'Necrozma-Dusk-Mane', 'Reshiram', 'Solgaleo', 'Urshifu-Rapid-Strike', 'Zacian', 'Zamazenta', 'Zekrom',
-			'Damp Rock', 'Smooth Rock', 'Moody', 'Shadow Tag', 'Baton Pass',
+			'Damp Rock', 'Smooth Rock', 'Moody', 'Shadow Tag', 'Heat Rock', 'Baton Pass',
 		],
 	},
 	{
