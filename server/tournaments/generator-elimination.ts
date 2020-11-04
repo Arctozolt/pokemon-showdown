@@ -10,7 +10,7 @@ import type {TournamentPlayer} from './index';
 
 /**
  * There are two types of elim nodes, player nodes
- * and match nodes.
+ * and match nodes. 
  *
  * Player nodes are leaf nodes: .children = none
  *
@@ -195,6 +195,7 @@ export class Elimination {
 		let tree: ElimTree = null!;
 
 		for (const user of Utils.shuffle(players)) {
+			// eliminates
 			if (!tree) {
 				tree = {
 					root: new ElimNode({user}),
